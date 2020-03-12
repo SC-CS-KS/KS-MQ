@@ -1,17 +1,7 @@
-# Message Queue
+# 消息队列
 
-## [What is MQ ?](WhatIs.md)
+[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
-## [MQ Theory](theory/README.md)
-
-## Design
-* [DLX (Dead Letter Exchange)](design/DLX.md)
-
-## [MQ Implement](implement/README.md)
-* [Apache Kafka](kafka/README.md)
-
-## [Develop](dev/README.md)
-
-## [HA](HA/README.md)
-
+Table of Content
+=================
 
